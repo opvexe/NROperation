@@ -1,0 +1,15 @@
+PODS:
+  - HappyDNS (0.3.12)
+  - Qiniu (7.2.3):
+    - HappyDNS (~> 0.3)
+
+DEPENDENCIES:
+  - Qiniu (~> 7.2.3)
+
+SPEC CHECKSUMS:
+  HappyDNS: 691a3041128055d09866f86e6e9ca90f24da1f18
+  Qiniu: ae0fea1cc379fae1560d8748ac537e0fbeb8626e
+
+PODFILE CHECKSUM: 906da68f677555ed372752b89ddb1a6b120eda17
+
+COCOAPODS: 1.4.0.beta.2
